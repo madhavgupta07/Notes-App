@@ -1,0 +1,39 @@
+
+.main-div{
+    background-color: #ffe0a6;
+    height: inherit;
+    /* height: 100vh; */
+}
+.innerContainer{
+    width: 500px;
+}
+
+#notes{
+    background-color: #fff6e6;
+}
+
+#noteDiv{
+    border-bottom: 5px solid burlywood;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px;
+}
+
+.navColor{
+    background-color: #ffb733;
+}
+
+.note{
+    margin-bottom: 10px;
+}
+
+#addButton{
+    background-color: #ffc966;
+}
+
+button{
+    background-color: #ffc966;
+}
